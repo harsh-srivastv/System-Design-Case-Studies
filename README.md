@@ -3,7 +3,7 @@ FAANG - Solved Complete System Design Case Studies
 
 Used these system design case Studies for my system design interview
 
-#System Design Case Studies
+**System Design Case Studies**
 
 Design Messenger App : https://bit.ly/3DoAAXi<br>
 Design Instagram : https://bit.ly/3BFeHlh<br>
@@ -24,7 +24,7 @@ All solved case studies : https://bit.ly/3dCG1rc<br>
 Most Popular System Design Questions : https://bit.ly/3E9oH7K<br>
 Complete System Design Basics Series : https://bit.ly/3rG1cfr<br>
 
-#Things you must know in System Design -
+**Things you must know in System Design -**
 
 System design basics : https://bit.ly/3SuUR0Y<br>
 Horizontal and vertical scaling : https://bit.ly/3slq5xh<br>
